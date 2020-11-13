@@ -18,9 +18,45 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #555555;
-    font-size: 60px;spacial
+    font-size: 60px;
 }
 
 #logo{
     float: left;
+    font-size: 60px;
+}
+
+#logo, #menu {
+    line-height: 120px;
+}
+#menu {
+    font-size: 30px;
+    list-style-type: none;
+    letter-spacing: 4x;
+    float: right;
+}
+#menu li{
+    
+    margin-right: 30px;
+    display: inline;
+}
+
+#menu a{
+    text-decoration: none;
+    color: inherit;
+}
+/* sudo class changes state of html element - allows us to change any hyperlink that is child of the menu*/
+
+#menu a:hover {
+    border-bottom: 5px solid blue;
+}
+
+.active {
+    border-bottom: 5px solid blue;
+}
+
+#hero-image{
+    height: 800px;
+    width: 100%;
+    background: url(https://i.imgur.com/vEs69Su.jpg) no-repeat center center;
 }
