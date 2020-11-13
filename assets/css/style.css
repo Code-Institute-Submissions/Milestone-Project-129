@@ -1,3 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton:200&family=Roboto&display=swap');
+
+/*set all to 0 so we have more control over box model elements when we go to position. Because of specificity general rules go at top 
+and get specific as we go down*/
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 body {
-    background-color: red;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color: #777777;
+}
+
+h2 {
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #555555;
+    font-size: 60px;spacial
+}
+
+#logo{
+    float: left;
 }
