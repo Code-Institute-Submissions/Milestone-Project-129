@@ -13,6 +13,14 @@ body {
     color: #777777;
 }
 
+header {
+    margin-left: 250px;
+    margin-right: 230px;
+    color: white;
+    z-index: auto;
+   
+    
+}
 h2 {
     font-family: 'Anton', sans-serif;
     text-transform: uppercase;
@@ -56,7 +64,9 @@ h2 {
 }
 
 #hero-image{
-    height: 800px;
+    height: 600px;
     width: 100%;
-    background: url(https://i.imgur.com/vEs69Su.jpg) no-repeat center center;
+    background: url(https://i.imgur.com/7wkSu4o.jpg) no-repeat center center;
+    
 }
+
