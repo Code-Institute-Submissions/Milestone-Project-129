@@ -1,67 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Anton:200&family=Roboto&display=swap');
 
-/*set all to 0 so we have more control over box model elements when we go to position. Because of specificity general rules go at top 
-and get specific as we go down*/
 * {
     margin: 0;
     padding: 0;
     border: 0;
 }
-body {
-    font-family: 'Anton', sans-serif;
-    font-family: 'Roboto', sans-serif;
-    color: #777777;
-}
 
-header {
-    margin-left: 250px;
-    margin-right: 230px;
-    color: white;
-    z-index: auto;
-   
-    
+.navbar-brand {
+    font-size: 50px;
 }
-h2 {
-    font-family: 'Anton', sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    color: #555555;
-    font-size: 60px;
-}
-
-#logo{
-    float: left;
-    font-size: 60px;
-}
-
-#logo, #menu {
-    line-height: 120px;
-}
-#menu {
-    font-size: 30px;
-    list-style-type: none;
-    letter-spacing: 4x;
-    float: right;
-}
-#menu li{
-    
-    margin-right: 30px;
-    display: inline;
-}
-
-#menu a{
-    text-decoration: none;
-    color: inherit;
-}
-/* sudo class changes state of html element - allows us to change any hyperlink that is child of the menu*/
-
-#menu a:hover {
-    border-bottom: 5px solid blue;
-}
-
-.active {
-    border-bottom: 5px solid blue;
-}
-
-
-
