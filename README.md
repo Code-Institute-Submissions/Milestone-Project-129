@@ -20,21 +20,29 @@ when you land on the page. For this I included a picture which highlights the vi
 to so the effectiveness of the products can be understood thoroughly. As I could find no other spatial audio directories like this I sent out some 
 questionnaires to get feedback on how directories are generally used and what features would be expected. 
 
--   #### User stories
+-   #### Scope
+As the subject matter is very specific and technical, I decided to focus on providing high level information and lots of links to 
+various where the website user could navigate through and learn more in-depth it captured their interest. To include virtual reality 
+features would have been time intensive and including to much technical specifications could have been overwhelming.
 
--   #### User stories
+-   #### Structure
+I chose to structure the website in a conventional way due to the complexity of the subject. Using the grey banner for consistency allowed the user to know they were in a new section.
+The footer contained the resource links which allowed the user access at any time. 
 
--   #### User stories
+-   #### Skeleton
+I used icons that were familiar such as headphones, microphones etc and use active titles such as 'Listen' and 'Search the Directory' to let 
+the user know how to engage with the pages.
+
 
 -   #### Surface
 
 
 -   ### User stories
 
-    -   #### First Time Visitor Goals
+    -   #### Beginner Immersive Audio Users
 
         1. As a First Time Visitor, I want to learn more about 3D audio so I can develop an understanding of a full immersive experience with of my Virtual Reality Headset.
-        2. As a First Time Visitor, I want to be able to find resources which allow me to start building a soundscape for my 360 film.
+        2. As a First Time Visitor, I want to be able to find links to resources which allow me to start building a soundscape for my 360 film.
         3. As a First Time Visitor, I want to find a 3D microphone that will allow me to capture sound from above.  
 
     -   #### Returning Visitor Goals
