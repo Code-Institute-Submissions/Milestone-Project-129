@@ -35,6 +35,8 @@
 
 .text-center-image {
     color: white;
-    font-size: 100px;
-    position: center center;
+    font-size: 70px;
+    padding-top: 250px;
+    opacity: 90%;
+    text-align: center;
 }
