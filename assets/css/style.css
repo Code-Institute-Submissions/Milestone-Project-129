@@ -10,6 +10,25 @@
     font-size: 50px;
 }
 
-.footer-bg {
-    background-color: #E1926F;
+
+#carousel-section {
+    height: 40em;
+    background-image: linear-gradient(rgb(0 0 0 / 67%), rgb(0 0 0 / 68%)), url(../images/vr-cover.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+#cover-pre-footer-section {
+    height: 40em;
+    background-image: linear-gradient(rgb(0 0 0 / 67%), rgb(0 0 0 / 68%)), url(../images/vr-cover-girl.png);
+    object-fit: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.header-color, .footer {
+    background-color: black !important;
+    color: white;
 }
