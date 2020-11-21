@@ -62,21 +62,25 @@ the user know how to engage with the pages.
     -   #### Typography
         -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -  I chose a man wearing a Virtual Reality headset for the hero image so that it 
+        grabbed the visitors attention straight away and let them know what the website was in line with.
+        
 
 *   ### Wireframes
 
     -   Home Page Wireframe - [View](https://github.com/)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Mobile Wireframe - ![View](/images/wireframe.pdf)
 
     -   Contact Us Page Wireframe - [View](https://github.com/)
 
 ## Features
 
--   Responsive on all device sizes
+-   Feature 1 - it allows the user to listen to examples of spacial audio by wayching one of the youtube videos on the landing page.
 
--   Interactive elements
+-   Feature 2 - it allows users to navigate and access a range of resources by following the link descriptions in the footer. 
+
+-   Feature 3 - it allows the user to choose if a company in the directory meets their needs quickly by referencing the logo placed next to the headings. 
 
 ## Technologies Used
 
