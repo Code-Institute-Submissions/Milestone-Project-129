@@ -171,10 +171,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Further Testing
 
--   The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers.
--   The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
--   A large amount of testing was done to ensure that all pages were linking correctly.
--   Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
+-   
 
 ### Known Bugs
 
@@ -242,13 +239,13 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 ### Content
 
--   All content was written by the developer.
+-   Content fot the contact from was obtained from [MDB](https://mdbootstrap.com/docs/jquery/forms/contact/)
 
 -   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 
--   All Images were created by the developer.
+-   
 
 ### Acknowledgements
 
