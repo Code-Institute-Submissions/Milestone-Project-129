@@ -32,3 +32,9 @@
     background-color: black !important;
     color: white;
 }
+
+.text-center-image {
+    color: white;
+    font-size: 100px;
+    position: center center;
+}
